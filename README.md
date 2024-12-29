@@ -1,4 +1,5 @@
 🚀 Mini-Projects Showcase
+
 Welcome to my Mini-Projects repository! 🧠✨ This is where data meets creativity, featuring projects that blend analytical prowess with storytelling through code and visuals. Dive into my hands-on work with Python, Numpy, Pandas, Power BI, and Tableau—each designed to solve real-world problems and sharpen my data skills.
 
 🌟 What's Inside?
